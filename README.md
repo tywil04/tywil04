@@ -1,16 +1,18 @@
-### Hi there 👋
+## About me
+Hi, im Tyler and im a Computer Science student who is pursing a career as a software engineer. I am very passionate about open-source software and I constantly trying to make it more accessible. I have worked with web many technologies in my spare time like for example Svelte(kit), Tailwind and ReactJS (I have other, limited, experiences with other frameworks and tools). Alongside my intrest in web technologies, I love to program using Golang and prototyping in Python. 
 
-<!--
-**tywil04/tywil04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My interests
+- 🔐 Cryptography
+- 🖥 Web Development
+- 🐧 Linux
 
-Here are some ideas to get you started:
+## Languages I am confident in
+![Golang, Python, JavaScript, Java](./languages.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I want to learn/use
+- Rust
+- Zig
+- GraphQL
+
+## How to reach me
+- Email: github.public.6d2617ee@alias.tylerw.co.uk

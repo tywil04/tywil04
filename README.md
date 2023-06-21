@@ -16,3 +16,4 @@ Hi, im Tyler and im a Computer Science student who is pursing a career as a soft
 
 ## How to reach me
 - Email: github.public.6d2617ee@alias.tylerw.co.uk
+- Matrix: @tywil04:matrix.org

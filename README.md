@@ -6,10 +6,10 @@ Hi, im Tyler and im a Computer Science student who is pursing a career as a soft
 - 🖥 Web Development
 - 🐧 Linux
 
-## Tools and languages I know and use
+## Some of the Tools and languages I know and use
 ![Golang, Python, JavaScript, Java, HTML, CSS, Bash, Svelte, Tailwind, MongoDB, Postgres, Linux](./languages+tools.png)
 
-## What I want to learn and use
+## Some of what I want to learn and use
 - Rust
 - Zig
 - GraphQL

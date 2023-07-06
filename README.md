@@ -11,6 +11,7 @@ Hi, im Tyler and im a Computer Science student who is pursing a career as a soft
 
 ## Some of what I want to learn and use
 - Rust
+- Crystal
 - Zig
 - GraphQL
 

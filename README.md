@@ -16,4 +16,4 @@ Hi, im Tyler and im a Computer Science student who is pursing a career as a soft
 - GraphQL
 
 ## How to reach me
-- Email: github.26ac3d4d@alias.tylerw.co.uk
+- Email: tw at tylerw.co.uk
